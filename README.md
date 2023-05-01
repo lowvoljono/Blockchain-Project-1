@@ -1,8 +1,11 @@
 # Blockchain Project 1
 
-![Adding a Block to the chain](url)
+![Adding a Block to the chain](https://github.com/lowvoljono/Blockchain-Project-1/blob/main/Screen%20Shot%202023-05-01%20at%208.56.22%20pm.png)
 
-![Verifying the Block](url)
+![Validate the Block](https://github.com/lowvoljono/Blockchain-Project-1/blob/main/Screen%20Shot%202023-05-01%20at%208.56.19%20pm.png)
+
+
+
 
 
 
