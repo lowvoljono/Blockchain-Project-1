@@ -1,4 +1,11 @@
-# Blockchain Project 1
+# Blockchain Project - Adding Blocks & Validating
+
+
+![Project 1](https://github.com/lowvoljono/Blockchain-Project-1/blob/main/application-image.png)
+
+
+
+
 
 ![Adding a Block to the chain](https://github.com/lowvoljono/Blockchain-Project-1/blob/main/Screen%20Shot%202023-05-01%20at%208.56.22%20pm.png)
 
